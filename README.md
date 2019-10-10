@@ -1,11 +1,10 @@
-# Steering Behavior
+# Web Dynamic 101
 
-Implémentation ECMAScript des Steering Behavior (Seek and Arrival). 
+Introduction aux concepts généraux du Web Dynamique.
 
-Ce projet peut être suivi comme un tutoriel en plusieurs étapes représentées par des tags git.
+Prérequis:
+- Développement de pages web statiques (HTML et CSS)
 
-Cliquez sur le boutons "Branches/Tags" ci-dessus afin de facilement changer d'étape.
+Le cheminement est disponibles en ligne : 
 
-La documentation et le cheminement sont disponibles en ligne : 
-
-[https://formation-dwwm.github.io/Steering-Behavior/](https://formation-dwwm.github.io/Steering-Behavior/)
+[https://github.com/formation-dwwm/WebDyn-101/](https://github.com/formation-dwwm/WebDyn-101/)

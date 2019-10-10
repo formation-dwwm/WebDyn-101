@@ -2,7 +2,7 @@ title: WebDyn 101
 email: matthias.gaudin@afpa.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Introduction simple et multimodale au web dynamique.
-baseurl: "/webdyn-101" # the subpath of your site, e.g. /blog
+baseurl: "/WebDyn-101" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  formation-dwwm
 
