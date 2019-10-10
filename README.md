@@ -7,4 +7,4 @@ Prérequis:
 
 Le cheminement est disponibles en ligne : 
 
-[https://github.com/formation-dwwm/WebDyn-101/](https://github.com/formation-dwwm/WebDyn-101/)
+[https://formation-dwwm.github.io/WebDyn-101/](https://formation-dwwm.github.io/WebDyn-101/)
